@@ -25,13 +25,14 @@ Mostly focus on web & mobile front-end development, but very familiar with `PHP`
 
   <p>
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Jira-737FFF?style=flat-square&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=red"/>
     <img src="https://img.shields.io/badge/-SandBox-000000?style=flat-square&logo=codesandbox&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bitrise-683D87?style=flat-square&logo=bitrise&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white"/>
