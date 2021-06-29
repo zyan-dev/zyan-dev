@@ -4,6 +4,9 @@ I'm a full-stack developer at [ReactNativeGuru](https://www.reactnative.guru/).
 
 Mostly focus on web & mobile front-end development, but very familiar with `PHP`, `Node.js`, `GraphQL`, `Firebase`, `Amazon Web Services` as well.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=smart-mickey&&show_icons=true&theme=dark&hide=issues&count_private=true&include_all_commits=true&line_height=24.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smart-mickey&layout=compact&theme=dark&langs_count=10)
+
 #### My Major Skills
 
 <code title='React'><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
