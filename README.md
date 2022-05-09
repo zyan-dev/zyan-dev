@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Senior software developer with 5 years of professional experience in web & mobile application development.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyan-dev&layout=compact&theme=dark&langs_count=10)
 
 #### My Major Skills
 
