@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior software developer with 5 years of professional experience in web & mobile application development.
+Senior software developer with 7 years of professional experience in web & mobile application development.
 
 #### My Major Skills
 
